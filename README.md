@@ -1,4 +1,4 @@
 # AlexandreMarkus.github.io
-[![Flutter Web](https://github.com/AlexandreMarkus/my_website/actions/workflows/flutter_build_publish_web.yml/badge.svg)](https://github.com/AlexandreMarkus/my_website/actions/workflows/flutter_build_publish_web.yml)
+[![pages-build-deployment](https://github.com/AlexandreMarkus/AlexandreMarkus.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/AlexandreMarkus/AlexandreMarkus.github.io/actions/workflows/pages/pages-build-deployment)
 
 This project is a developer portfolio entirely build with [Flutter Web](https://flutter.dev/web). 
